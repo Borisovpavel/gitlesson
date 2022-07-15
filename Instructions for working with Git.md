@@ -28,3 +28,6 @@ _Список команд Git_
 * git branch - просмотр всех веток.
 * git branch BRANCH NAME - создание ветки имя ветки.
 * git checkout BRANCH NAME - перехоб на ветку.
+
+12. Слияние веток.
+* git merge BRANCH NAME - слияние ветки в текущую.
