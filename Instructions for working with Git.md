@@ -30,4 +30,4 @@ _Список команд Git_
 * git checkout BRANCH NAME - перехоб на ветку.
 
 12. Слияние веток.
-* git merge BRANCH NAME - слияние ветки в текущую.
+* git merge BRANCH NAME - слияние ветки в текущую!
